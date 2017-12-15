@@ -5,13 +5,13 @@ MPC tracking: Optimization of Fuel Efficiency during Landing of Commercial Airpl
 
 Group Members: 
 
-Minglong Li
+  Minglong Li
 
-Fu-Hsiang Chang
+  Fu-Hsiang Chang
 
-Chia Shen Shyu
+  Chia Shen Shyu
 
-Rex Chen
+  Rex Chen
 
 Class: 
 ME 231A @ University of California, Berkeley 
