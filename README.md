@@ -2,7 +2,7 @@
 
 Title: 
 
-MPC tracking: Optimization of Fuel Efficiency during Landing of Commercial Airplane with Disturbances
+MPC tracking: Optimization of Fuel Efficiency during Landing of Commercial Airplane with Disturbances\n\n
 
 
 Group Members: 
@@ -13,7 +13,7 @@ Group Members:
 
   Chia Shen Shyu
 
-  Rex Chen
+  Rex Chen\n\n
   
 
 Class: 
